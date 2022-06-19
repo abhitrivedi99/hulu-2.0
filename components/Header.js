@@ -7,7 +7,7 @@ function Header() {
 		<header className="m-5 justify-between flex flex-col sm:flex-row items-center h-auto">
 			<div className="flex flex-grow justify-evenly max-w-2xl">
 				<HeaderItem title="HOME" Icon={HomeIcon} />
-				<HeaderItem title="TRENDIGN" Icon={LightningBoltIcon} />
+				<HeaderItem title="TRENDING" Icon={LightningBoltIcon} />
 				<HeaderItem title="VERIFIED" Icon={BadgeCheckIcon} />
 				<HeaderItem title="COLLECTIONS" Icon={CollectionIcon} />
 				<HeaderItem title="SEARCH" Icon={SearchIcon} />
